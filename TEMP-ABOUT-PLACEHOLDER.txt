@@ -1,0 +1,1 @@
+Temporary placeholder file, created only to enable editing the repository About section on an empty repository. It will be removed before the real push.
